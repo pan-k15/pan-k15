@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Panisa 👋</h1>
+<h1 align="center">Hi, I'm Pan 👋</h1>
 
 <p align="center">
   💻 AI / Machine Learning Engineer & Robotics Developer  
