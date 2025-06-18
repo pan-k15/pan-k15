@@ -78,11 +78,7 @@ You can hire me on:
 
 ### 🌟 Featured Projects
 
-- 🚜 **Smart ROS2 Simulator for Palm Fruit Harvesting**
-- 📈 **Stock Prediction & Backtesting System**
-- 📄 **AI Document Search with Semantic NLP**
-- 🧠 **ML Model Debugging Toolkit**
-
+*(coming soon)*
 ---
 
 ### 📫 Let's Connect
