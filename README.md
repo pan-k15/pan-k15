@@ -74,7 +74,8 @@ You can hire me on:
 - 💼 Fiverr *(coming soon)*
 
 ---
-
+![Pan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan-k15&show_icons=true&theme=radical)
+---
 ### 🌟 Featured Projects
 
 **(coming soon)**
