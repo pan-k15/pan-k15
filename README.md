@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pangineering@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-pangineering%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:pan.techprototype@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-pangineering%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://fastwork.co/user/pan6415"><img src="https://img.shields.io/badge/Fastwork-Available%20Now-4E71FF?style=for-the-badge&logo=freelancer&logoColor=white"/></a>
   <a href="https://github.com/pan-k15"><img src="https://img.shields.io/badge/GitHub-pan--k15-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
